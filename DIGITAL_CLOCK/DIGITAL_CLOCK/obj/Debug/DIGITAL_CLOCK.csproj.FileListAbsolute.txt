@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\bin\Debug\DIGITAL_CLOCK.exe.config
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\bin\Debug\DIGITAL_CLOCK.exe
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\bin\Debug\DIGITAL_CLOCK.pdb
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\obj\Debug\DIGITAL_CLOCK.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\obj\Debug\DIGITAL_CLOCK.Form1.resources
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\obj\Debug\DIGITAL_CLOCK.Properties.Resources.resources
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\obj\Debug\DIGITAL_CLOCK.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\obj\Debug\DIGITAL_CLOCK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\obj\Debug\DIGITAL_CLOCK.exe
+C:\Users\Admin\source\repos\DIGITAL_CLOCK\DIGITAL_CLOCK\obj\Debug\DIGITAL_CLOCK.pdb
