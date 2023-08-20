@@ -22,6 +22,8 @@ Click the "Stop" button to pause the clock display.
 Close the application window to exit.
 Getting Started
 To get started with the DIGITAL_CLOCK application, follow these steps:
+## Screenshots.
+![Screenshot 2023-08-21 010313](https://github.com/RoggersAnguzu/DIGITAL_CLOCK/assets/141458053/3b7246cc-8ac1-4f76-8db6-27ec6d9510aa)
 
 Clone or download this repository to your local machine.
 Open the project in a compatible C# development environment (e.g., Visual Studio).
